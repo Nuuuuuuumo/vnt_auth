@@ -1,0 +1,4 @@
+{
+  "serverPort": 3000,
+  "dbUrl": "mongodb+srv://deymoss:Deymoss228@cluster0.jfnvj.mongodb.net/vntu-db"
+}
