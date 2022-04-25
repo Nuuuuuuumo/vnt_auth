@@ -1,5 +1,3 @@
-node_modules
-
-server/node_modules
+server/node_moduler
 
 client/node_modules
