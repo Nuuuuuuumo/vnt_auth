@@ -1,5 +1,7 @@
 server/node_moduler
+server/Config
 
 client/node_modules
+client/.env
 
 .idea
