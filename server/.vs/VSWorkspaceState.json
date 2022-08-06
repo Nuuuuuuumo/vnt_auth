@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\controller",
+    "\\middleware",
+    "\\models",
+    "\\routes"
+  ],
+  "SelectedNode": "\\middleware\\roleMiddleware.js",
+  "PreviewInSolutionExplorer": false
+}
